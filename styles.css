@@ -114,13 +114,14 @@ color:  hsl(26, 100%, 55%);
 /* media query */
 @media (max-width:450px) {
     .navbar {
-        display:block;
+        width:100%;
+        margin:0;
     }
     hr {
         display: none;
     }
 .product-image {
-    display:block;
+    width:100%
     
     margin: 0;
     padding: 0;
