@@ -7,8 +7,9 @@ body {
     margin-bottom: 0;
 }
 .navbar-brand {
-    margin-left: 2px;
+    margin-left: 0px;
     margin-right: 50px;
+    
 }
 .nav-item {
     margin: 0 10px;
@@ -143,13 +144,16 @@ margin-left: 40%;
     
     display: block;
     height:60px;
-   margin:5px 5px 15px 5px;
+   margin:5px 10px 15px 10px;
 }
 .add-to-cart {
    
     height:60px;
     
     display: block;
-    margin:20px 5px 40px 5px;
+    margin:20px 10px 40px 10px;
 }
+ .navbar {
+     height:60px;
+    }
 }
