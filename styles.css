@@ -112,7 +112,7 @@ color:  hsl(26, 100%, 55%);
     color: white;
 }
 /* media query */
-@media (max-width:480px) {
+@media (max-width:450px) {
     hr {
         display: none;
     }
